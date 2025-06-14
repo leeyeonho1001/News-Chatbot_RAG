@@ -1,0 +1,8 @@
+streamlit
+openai
+chromadb
+feedparser
+python-dotenv
+lxml
+selenium
+umap-learn
